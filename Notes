@@ -1,0 +1,35 @@
+Python Data Science - Machine Learning (Notes)
+
+• Machine learning is a subfield of artificial intelligence that enables machines to learn from data and improve their performance .
+   over time.
+• In ML, machine is intelligent and can make it's own decision.
+
+• SuperVised Learning: 
+                     Target columns and features are both present. It uses Labeled Data and easily do predictions and create models using both input and output data. There are 2 types of supervised learning:
+ 
+(A) Classification: 
+                Target column is categorical. Machine Learning Classification helps us to make predictions and decisions based on data.
+
+• Types of Classification Metrics:
+    (I) Confusion Metrics:
+                         Confusion matrix is a table that summarizes the performance of a classification algorithm. It consists of four metrics:
+
+                             True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
+
+(II) Accuracy: 
+            Accuracy is a fundamental metric used to evaluate the performance of classification models. It measures the proportion of correctly predicted instances.
+
+ (B) Regression: 
+                Target column contains continuous values.
+
+• Unsupervised Leaning: 
+                    Target column is not given. It uses Unlabeled Data. It groups and interprets data based only on input data. There is 1 type of unsupervised learning:
+ (A) Clustering :
+
+• Reinforcement Learning: 
+                        It contains agents which will take a set of decisions and select the best one and perform learning on the basis of the selected decision.
+• .fit is used to load data to model so it can read it.
+
+• Confusion Metrics:
+                    A confusion matrix is a matrix that summarizes the performance of a machine learning model on a set of test data.
+It displays number of accurate and inaccurate results based on models prediction of test data.      
